@@ -4,4 +4,5 @@ class Post
   
   def initalize 
     @title
+  end 
 end 
